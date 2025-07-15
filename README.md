@@ -1,1 +1,1 @@
-# SCT_DS_01
+This project explores world population by continent using Python.
